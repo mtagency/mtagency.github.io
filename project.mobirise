@@ -472,7 +472,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"index.html#form3-0\" data-toolbar=\"-mbrBtnMove\">GET YOUR MEAL PLAN</a> "
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/appetizer-avocado-bread-566567-2000x1334.jpg",
+                "image": "@PROJECT_PATH@/assets/images/appetizer-avocado-bread-566566-2000x1334.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
